@@ -1,0 +1,4 @@
+name: GameRuleLocker
+version: @version@
+main: club.kid7.gamerulelocker.GameRuleLocker
+authors: [jyhsu]
